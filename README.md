@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vittorio Perotto</h1>
-<h3 align="center">RPA Developer</h3>
+<h3 align="center">Python Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
         <a href="https://linkedin.com/in/vittorio perotto" target="blank">
