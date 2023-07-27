@@ -15,6 +15,9 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
         </a> 
+        <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://upload.vectorlogo.zone/logos/robotframework/images/9ea09aa9-e7c0-46f6-94d3-07e7032f869c.svg" alt="robotframework" width="30" height="30"/> 
+        </a> 
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> 
         </a> 
@@ -27,6 +30,9 @@
         <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30"/> 
         </a> 
+        <a href="https://www.vaultproject.io/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="hashicorp_vault" width="30" height="30"/> 
+        </a> 
         <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="30" height="30"/> 
         </a> 
@@ -36,9 +42,8 @@
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
         </a> 
-        <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> 
-                <img src="https://upload.vectorlogo.zone/logos/robotframework/images/9ea09aa9-e7c0-46f6-94d3-07e7032f869c.svg" alt="robotframework" width="30" height="30"/> 
-        </a> 
+        
+        
 </p>
 </div>
 <h3 align="left">Profile Stats:</h3>
