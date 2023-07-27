@@ -18,6 +18,9 @@
         <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://upload.vectorlogo.zone/logos/robotframework/images/9ea09aa9-e7c0-46f6-94d3-07e7032f869c.svg" alt="robotframework" width="30" height="30"/> 
         </a> 
+        <a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> 
+        </a> 
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> 
         </a> 
