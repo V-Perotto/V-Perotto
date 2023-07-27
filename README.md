@@ -36,8 +36,8 @@
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
         </a> 
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
+        <a href="https://robotframework.org/" target="_blank" rel="noreferrer"> 
+                <img src="https://upload.vectorlogo.zone/logos/robotframework/images/9ea09aa9-e7c0-46f6-94d3-07e7032f869c.svg" alt="robotframework" width="30" height="30"/> 
         </a> 
 </p>
 </div>
