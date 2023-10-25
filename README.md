@@ -3,7 +3,7 @@
 <div align="center"> 
 <p>I love automating processes. 😁</p>
 </div> 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center">
         <p align="">
                 <a href="https://linkedin.com/in/vittorioperotto" target="blank">
@@ -11,7 +11,8 @@
                 </a>
         </p>
 </div>        
-<h3 align="left">Languages and Tools:</h3>
+<br />
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
         <p> 
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -55,7 +56,8 @@
                 </a>        
         </p>
 </div>
-<h3 align="left">Profile Stats:</h3>
+<br />
+<h3 align="center">Profile Stats:</h3>
 <div align="center">
         <p>
                 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-perotto&show_icons=true&locale=en&layout=compact&theme=dark" alt="v-perotto" />
