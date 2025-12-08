@@ -54,18 +54,3 @@
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
-
-# 📊 GitHub Stats:
-<div align="center">
-    <p>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v-perotto&show_icons=true&locale=en&layout=compact&theme=dark" alt="v-perotto" />
-    </p>
-    <p>
-            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-perotto&show_icons=true&locale=en&theme=dark" alt="v-perotto" />
-    </p>
-    <p>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-perotto&theme=dark" alt="v-perotto" />
-    </p>
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
