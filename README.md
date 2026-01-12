@@ -3,7 +3,14 @@
 ## Embrace the Open-Source
 You can use my [Grape Glass Theme](https://open-vsx.org/extension/DistroLinux/grape-glass-theme) at [Open VSX Registry](https://open-vsx.org) if you have [VSCodium](https://vscodium.com/) installed.  
 
-![Open VSX Downloads](https://img.shields.io/open-vsx/dt/DistroLinux/grape-glass-theme?style=for-the-badge&logo=vscodium&logoColor=%23389e81&logoSize=auto&label=Grape%20Glass%20Theme%20-%20Downloads&color=%23852ffc&cacheSeconds=60)
+<p align="center">
+  <a href="https://open-vsx.org/extension/DistroLinux/grape-glass-theme">
+    <img 
+      src="https://img.shields.io/open-vsx/dt/DistroLinux/grape-glass-theme?style=for-the-badge&logo=vscodium&logoColor=%23389e81&logoSize=auto&label=Grape%20Glass%20Theme%20-%20Downloads&color=%23852ffc&cacheSeconds=60" 
+      alt="Open VSX Registry- Grape Glass Theme Downloads"
+    >
+  </a>
+</p>
 
 # Tech Stack I like to use:
 
