@@ -2,7 +2,7 @@
 
 <h2 align="center">Embrace the Open-Source</h2>
 <p align="center">
-  You can use my <a href="https://github.com/V-Perotto/Grape-Glass-Theme">Grape Glass Theme</a> at <a href="https://open-vsx.org/extension/DistroLinux/grape-glass-theme">Open VSX Registry</a> if you have <a href="https://vscodium.com/">VSCodium</a> installed.  
+  You can use my <a href="https://github.com/V-Perotto/Grape-Glass-Theme">Grape Glass Theme</a> and more from <a href="https://open-vsx.org/namespace/DistroLinux">my namespace</a> at <a href="https://open-vsx.org/extension/DistroLinux/grape-glass-theme">Open VSX Registry</a> if you have <a href="https://vscodium.com/">VSCodium</a> installed.  
 </p>
 
 <p align="center">
