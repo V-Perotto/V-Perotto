@@ -1,4 +1,4 @@
-<h1 align="center">V-Perotto <i>(DistroLinux)</i></h1>
+<h1 align="center">V-Perotto <i>(DistroLinux/ChubbyPenguine)</i></h1>
 
 <h2 align="center">Embrace the Open-Source</h2>
 <p align="center">
