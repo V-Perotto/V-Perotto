@@ -37,7 +37,7 @@
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 ## Host
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server%20-%20white?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=orange&color=orange)
+![Debian Server](https://img.shields.io/badge/Debian%20Server%20-%20white?style=for-the-badge&logo=debian&logoColor=white&color=%23A80030)
 
 ## Libraries and Frameworks
 ![Axios](https://img.shields.io/badge/Axios-purple?style=for-the-badge&logo=axios) 
