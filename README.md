@@ -2,7 +2,7 @@
 
 <h2 align="center">Embrace the Open-Source</h2>
 <p align="center">
-  You can use my <a href="https://github.com/V-Perotto/Grape-Glass-Theme">Grape Glass Theme</a> and more from <a href="https://open-vsx.org/namespace/DistroLinux">my namespace</a> at <a href="https://open-vsx.org/extension/DistroLinux/grape-glass-theme">Open VSX Registry</a> if you have <a href="https://vscodium.com/">VSCodium</a> installed.  
+  You can use my themes and more from <a href="https://open-vsx.org/namespace/DistroLinux">my namespace</a> at <b>Open VSX Registry</b> if you have <a href="https://vscodium.com/">VSCodium</a> installed.  
 </p>
 
 <p align="center">
@@ -10,6 +10,14 @@
     <img 
       src="https://img.shields.io/open-vsx/dt/DistroLinux/grape-glass-theme?style=for-the-badge&logo=vscodium&logoColor=%23389e81&logoSize=auto&labelColor=151515&label=Grape%20Glass%20Theme%20-%20Downloads&color=%23852ffc&cacheSeconds=60" 
       alt="Open VSX Registry- Grape Glass Theme Downloads"
+    >
+  </a>
+</p>
+<p align="center">
+  <a href="https://open-vsx.org/extension/DistroLinux/grape-glass-theme">
+    <img 
+      src="https://img.shields.io/open-vsx/dt/DistroLinux/shadow-lord-son-of-dathomir-theme?style=for-the-badge&logo=vscodium&logoColor=%23D90404&logoSize=auto&labelColor=%23121212&label=Shadow%20Lord%20-%20Son%20of%20Dathomir%20Theme%20-%20Downloads&color=%23D90404&cacheSeconds=60"
+      alt="Open VSX Registry- Shadow Lord - Son of Dathomir Theme Downloads"
     >
   </a>
 </p>
