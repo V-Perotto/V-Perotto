@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://v-perotto.github.io/Portfolio/">V-Perotto</a> <i>(DistroLinux/ChubbyPenguine)</i></h1>
+<h1 align="center"><a href="https://v-perotto.github.io/Portfolio/">V-Perotto</a> <i>(DistroLinux)</i></h1>
 <h2 align="center">Embrace the Open-Source 🐧</h2>
 
 <p align="center">
